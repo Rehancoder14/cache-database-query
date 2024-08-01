@@ -17,5 +17,5 @@ app.use('/', router);
 
 
 app.listen(port, () => {
-  console.log(`product pulse app listening on port ${port} `);
+  console.log(`cache query app listening on port ${port} `);
 });
